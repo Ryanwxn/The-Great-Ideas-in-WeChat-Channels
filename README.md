@@ -1,1 +1,1 @@
-# The-Great-Ideas-in-WeChat-Channels
+# The Great Ideas in WeChat Channels

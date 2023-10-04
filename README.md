@@ -1,5 +1,5 @@
 ## The Great Ideas in WeChat Channels
-
+Course main page: <a href="https://github.com/Ryanwxn/The-Great-Ideas-in-WeChat-Channels">Link</a>
 
 ### 1. Objective
 
